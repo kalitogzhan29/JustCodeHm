@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">JustCodeActivity</string>
-    <string name="say_hello">Say hello!</string>
-    <string name="hello_any">Hello %s</string>
-</resources>
